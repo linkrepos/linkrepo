@@ -1,1 +1,47 @@
-
+{
+  "collections": [
+    {
+      "name": "Development",
+      "description": "Resources for developers",
+      "links": [
+        {
+          "title": "MDN Web Docs",
+          "url": "https://developer.mozilla.org",
+          "description": "Web development documentation and guides",
+          "tags": ["documentation", "web", "reference"]
+        }
+      ]
+    },
+    {
+      "name": "Open Source",
+      "description": "Opensource applications and tools",
+      "links": [
+        {
+          "title": "awesome-selfhosted",
+          "url": "https://awesome-selfhosted.net",
+          "description": "List of awesome selfhosted apps",
+          "source-url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+          "tags": ["selfhosted", "github"]
+        }
+      ]
+    },
+    {
+      "name": "Media",
+      "description": "Media",
+      "links": [
+        {
+          "title": "fmhy",
+          "url": "https://fmhy.net",
+          "description": "Free Media Heck Yeah",
+          "tags": ["media", "streaming", "free"]
+        },
+        {
+          "title": "Open Trackers",
+          "url": "https://opentrackers.org",
+          "description": "List of torrent trackers",
+          "tags": ["media", "torrent"]
+        }
+      ]
+    }
+  ]
+}
